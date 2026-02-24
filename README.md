@@ -4,6 +4,7 @@ A collection of Java applications demonstrating **OOP**, **utility tools**, **AP
 ---
 
 ##  Tech Stack  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Command Line](https://img.shields.io/badge/Command%20Line-000000?logo=windows-terminal&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-purple)
 ![JavaFX](https://img.shields.io/badge/JavaFX-blue)
